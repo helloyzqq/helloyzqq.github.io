@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yu Zhe / Personal homepage"
+title                    : "Zhe Yu / Personal homepage"
 title_separator          : "-"
-name                     : &name "Yu Zhe"
+name                     : &name "Zhe Yu"
 description              : &description "personal description"
 url                      : https://helloyzqq.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yzqq.png"
-  name             : "Yu Zhe (于哲)"
+  avatar           : "yz.png"
+  name             : "Zhe Yu (于哲)"
   pronouns         : # example: "he/him"  
   bio              : "天行健，君子以自强不息"
   location         : "Harbin"
